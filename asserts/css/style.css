@@ -1,0 +1,16 @@
+.wrapper{
+	margin: 5% 40%;
+}
+
+#take-username{
+	margin-bottom: 5%; 
+}
+
+#take-username input {
+	width: 100%;
+	text-align: center;
+}
+
+#take-username button {
+	width: 100%;
+}
